@@ -1,0 +1,5 @@
+{
+  "name": "AetherBoard",
+  "description": "A high-performance, AI-enhanced Kanban board featuring glassmorphism design, fluid drag-and-drop animations, and Gemini-powered task generation.",
+  "requestFramePermissions": []
+}
